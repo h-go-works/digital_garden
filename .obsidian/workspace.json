@@ -13,11 +13,56 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rust__所有权_20250930083957.excalidraw.md"
+                "file": "rust_所有权转移_20250930084008.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "rust__所有权_20250930083957.excalidraw"
-            }
+              "title": "rust_所有权转移_20250930084008.excalidraw"
+            },
+            "group": "8c90b879b20c6937"
+          }
+        ]
+      },
+      {
+        "id": "b04f23df3dab37b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a534d6302a4f8be7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "rust_所有权转移_20250930084008.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "rust_所有权转移_20250930084008.excalidraw 的关系图"
+            },
+            "group": "8c90b879b20c6937"
           }
         ]
       }
@@ -196,11 +241,11 @@
   },
   "active": "33aa82d01bf5bc45",
   "lastOpenFiles": [
+    "rust__所有权_20250930083957.excalidraw.md",
+    "rust_所有权转移_20250930084008.excalidraw.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_可变变量_20250930084222.excalidraw.md",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
-    "rust_所有权转移_20250930084008.excalidraw.md",
-    "rust__所有权_20250930083957.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_复合类型_20250930112327.excalidraw.md",
     "rust_标量类型_20250930112235.excalidraw.md",
