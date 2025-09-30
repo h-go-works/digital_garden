@@ -17,52 +17,7 @@
               },
               "icon": "excalidraw-icon",
               "title": "rust_所有权转移_20250930084008.excalidraw"
-            },
-            "group": "8c90b879b20c6937"
-          }
-        ]
-      },
-      {
-        "id": "b04f23df3dab37b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a534d6302a4f8be7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "rust_所有权转移_20250930084008.excalidraw.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "rust_所有权转移_20250930084008.excalidraw 的关系图"
-            },
-            "group": "8c90b879b20c6937"
+            }
           }
         ]
       }
