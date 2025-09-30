@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rust__所有权——2025093008.39.57.excalidraw.md"
+                "file": "rust__所有权_20250930083957.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "rust__所有权——2025093008.39.57.excalidraw"
+              "title": "rust__所有权_20250930083957.excalidraw"
             }
           },
           {
@@ -49,14 +49,62 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rust__所有权——2025093008.39.57.excalidraw.md"
+                "file": "rust_所有权转移_20250930084008.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "rust__所有权——2025093008.39.57.excalidraw"
+              "title": "rust_所有权转移_20250930084008.excalidraw"
+            }
+          },
+          {
+            "id": "f4d87c21480c6c1b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "rust_生命周期_20250930084039.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "rust_生命周期_20250930084039.excalidraw"
+            }
+          },
+          {
+            "id": "a264206a3919a577",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "rust_借用与引用_20250930084135.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "rust_借用与引用_20250930084135.excalidraw"
+            }
+          },
+          {
+            "id": "00d51551d69c82f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "20250930084222.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "20250930084222.excalidraw"
+            }
+          },
+          {
+            "id": "e55fd0bc4b3a57d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "20250930084222.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "20250930084222.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -231,15 +279,19 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "43efb20032b3ccc4",
+  "active": "e55fd0bc4b3a57d6",
   "lastOpenFiles": [
-    "rust_所有权转移2025093008.40.08.excalidraw.md",
-    "rust__所有权——2025093008.39.57.excalidraw.md",
+    "rust_变量遮蔽_20250930084436.excalidraw.md",
+    "rust_所有权转移_20250930084008.excalidraw.md",
+    "20250930084222.excalidraw.md",
+    "rust_借用与引用_20250930084135.excalidraw.md",
+    "未命名.md",
+    "rust_生命周期_20250930084039.excalidraw.md",
+    "rust__所有权_20250930083957.excalidraw.md",
     "03_template/属性模板.md",
     "README.md",
     "Drawing 2025-09-30 08.27.59.excalidraw.md",
     "rust_所有权_Drawing 2025-09-29 21.46.52.excalidraw.md",
-    "未命名.md",
     "Drawing 2025-09-29 21.39.37.excalidraw.md"
   ]
 }

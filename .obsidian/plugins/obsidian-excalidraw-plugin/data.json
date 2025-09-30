@@ -20,7 +20,7 @@
   "drawingFilenamePrefix": "",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYYMMDDHH.mm.ss",
+  "drawingFilenameDateTime": "YYYYMMDDHHmmss",
   "useExcalidrawExtension": true,
   "cropSuffix": "",
   "cropPrefix": "cropped_",
