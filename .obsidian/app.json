@@ -4,5 +4,6 @@
   "attachmentFolderPath": "01_assets",
   "showUnsupportedFiles": true,
   "showLineNumber": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rust_可变变量_20250930084222.excalidraw.md"
+                "file": "rust_mut和&mut_20250930084222.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "rust_可变变量_20250930084222.excalidraw"
+              "title": "rust_mut和&mut_20250930084222.excalidraw"
             }
           }
         ]
@@ -199,7 +199,7 @@
     "rust_所有权转移_20250930084008.excalidraw.md",
     "rust__所有权_20250930083957.excalidraw.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
-    "rust_可变变量_20250930084222.excalidraw.md",
+    "rust_mut和&mut_20250930084222.excalidraw.md",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_复合类型_20250930112327.excalidraw.md",
