@@ -11,12 +11,67 @@
             "id": "13f656ebccff1149",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "rust_变量遮蔽_20250930084436.excalidraw.md"
+                "file": "rust_借用与引用_20250930084135.excalidraw.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "rust_变量遮蔽_20250930084436.excalidraw"
+              "icon": "lucide-file",
+              "title": "rust_借用与引用_20250930084135.excalidraw"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c2a1480c3f4a04d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffdc265fac8e202d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "rust_借用与引用_20250930084135.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 3.8634105686174913,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "rust_借用与引用_20250930084135.excalidraw 的关系图"
             }
           }
         ]
@@ -194,21 +249,21 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "0677f6e7d0b7ffe3",
+  "active": "ffdc265fac8e202d",
   "lastOpenFiles": [
+    "未命名.md",
+    "rust_借用与引用_20250930084135.excalidraw.md",
+    "rust_变量遮蔽_20250930084436.excalidraw.md",
     "01_inbox",
     "rust_mut和&mut_20250930084222.excalidraw.md",
-    "rust_变量遮蔽_20250930084436.excalidraw.md",
     "rust_标量类型_20250930112235.excalidraw.md",
     "rust_复合类型_20250930112327.excalidraw.md",
-    "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_作用域_20250930085805.excalidraw.md",
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
     "rust__所有权_20250930083957.excalidraw.md",
     "rust_所有权转移_20250930084008.excalidraw.md",
     "02_assets/Pasted Image 20251001110316_456.png",
-    "未命名.md",
     "可变变量.md",
     "04_template/属性模板.md",
     "README.md",
