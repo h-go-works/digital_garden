@@ -34,11 +34,11 @@
         ]
       },
       {
-        "id": "1c2a1480c3f4a04d",
+        "id": "7ebbdfdf392ae30f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffdc265fac8e202d",
+            "id": "4607c10b6e80f4f4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -66,7 +66,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 3.8634105686174913,
+                  "scale": 1.4019828977760997,
                   "close": false
                 }
               },
@@ -249,7 +249,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "ffdc265fac8e202d",
+  "active": "4607c10b6e80f4f4",
   "lastOpenFiles": [
     "未命名.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
