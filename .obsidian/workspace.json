@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rust_mut和&mut_20250930084222.excalidraw.md"
+                "file": "rust_所有权转移_20250930084008.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "rust_mut和&mut_20250930084222.excalidraw"
+              "title": "rust_所有权转移_20250930084008.excalidraw"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "2b7ec8f8de2e0679",
+  "active": "33aa82d01bf5bc45",
   "lastOpenFiles": [
-    "rust_生命周期_20250930084039.excalidraw.md",
     "rust_mut和&mut_20250930084222.excalidraw.md",
+    "rust_生命周期_20250930084039.excalidraw.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
     "01_assets/Pasted Image 20251001110316_456.png",
     "rust_所有权转移_20250930084008.excalidraw.md",
