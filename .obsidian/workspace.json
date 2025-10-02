@@ -194,8 +194,9 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "13f656ebccff1149",
+  "active": "0677f6e7d0b7ffe3",
   "lastOpenFiles": [
+    "01_inbox",
     "rust_mut和&mut_20250930084222.excalidraw.md",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
     "rust_标量类型_20250930112235.excalidraw.md",
@@ -206,10 +207,10 @@
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
     "rust__所有权_20250930083957.excalidraw.md",
     "rust_所有权转移_20250930084008.excalidraw.md",
-    "01_assets/Pasted Image 20251001110316_456.png",
+    "02_assets/Pasted Image 20251001110316_456.png",
     "未命名.md",
     "可变变量.md",
-    "03_template/属性模板.md",
+    "04_template/属性模板.md",
     "README.md",
     "Drawing 2025-09-30 08.27.59.excalidraw.md",
     "rust_所有权_Drawing 2025-09-29 21.46.52.excalidraw.md",
