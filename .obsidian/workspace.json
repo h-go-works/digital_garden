@@ -11,12 +11,24 @@
             "id": "13f656ebccff1149",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "rust_借用与引用_20250930084135.excalidraw.md"
+                "file": "03_resource/组块化记忆.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "rust_借用与引用_20250930084135.excalidraw"
+              "icon": "lucide-file",
+              "title": "组块化记忆"
             }
           }
         ]
@@ -196,14 +208,14 @@
   },
   "active": "13f656ebccff1149",
   "lastOpenFiles": [
+    "未命名.base",
+    "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_作用域_20250930085805.excalidraw.md",
     "rust_mut和&mut_20250930084222.excalidraw.md",
     "03_resource/组块化记忆.md",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
     "rust_标量类型_20250930112235.excalidraw.md",
-    "未命名.base",
-    "rust_借用与引用_20250930084135.excalidraw.md",
     "未命名.md",
     "01_inbox",
     "rust_复合类型_20250930112327.excalidraw.md",
