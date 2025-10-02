@@ -11,13 +11,12 @@
             "id": "13f656ebccff1149",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "rust_变量遮蔽_20250930084436.excalidraw.md"
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "rust_变量遮蔽_20250930084436.excalidraw"
             }
           }
         ]
@@ -197,15 +196,15 @@
   },
   "active": "13f656ebccff1149",
   "lastOpenFiles": [
-    "rust_借用与引用_20250930084135.excalidraw.md",
+    "rust_标量类型_20250930112235.excalidraw.md",
     "未命名.base",
+    "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_作用域_20250930085805.excalidraw.md",
     "rust_mut和&mut_20250930084222.excalidraw.md",
     "未命名.md",
     "01_inbox",
-    "rust_标量类型_20250930112235.excalidraw.md",
     "rust_复合类型_20250930112327.excalidraw.md",
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
     "rust__所有权_20250930083957.excalidraw.md",
