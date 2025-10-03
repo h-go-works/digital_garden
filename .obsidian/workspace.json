@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_resource/组块化记忆.md",
+                "file": "01_inbox/rust_泛型_20251003201131.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "组块化记忆"
+              "title": "rust_泛型_20251003201131"
+            }
+          },
+          {
+            "id": "fb2a3d980f743f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_inbox/rust_泛型_20251003201131.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "rust_泛型_20251003201131"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,12 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "13f656ebccff1149",
+  "active": "fb2a3d980f743f02",
   "lastOpenFiles": [
-    "未命名.md",
     "03_resource/组块化记忆.md",
+    "函数.md",
+    "01_inbox/rust_泛型_20251003201131.md",
+    "未命名.md",
     "01_inbox/2025-10-03.md",
     "04_template/属性模板.md",
     "02_assets/Pasted Image 20251001110316_456.png",
