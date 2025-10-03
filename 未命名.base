@@ -1,9 +1,0 @@
-filters:
-  and:
-    - file.basename.contains("rust")
-views:
-  - type: table
-    name: 表格
-    filters:
-      and:
-        - file.hasTag("？", "excalidraw")

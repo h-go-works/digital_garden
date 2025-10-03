@@ -11,12 +11,10 @@
             "id": "13f656ebccff1149",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "rust_mut和&mut_20250930084222.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "rust_mut和&mut_20250930084222.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_inbox/20251003155522.md",
+                "file": "04_template/属性模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251003155522"
+              "title": "属性模板"
             }
           }
         ],
@@ -221,15 +219,16 @@
   },
   "active": "99a58cdf7ce6210b",
   "lastOpenFiles": [
-    "01_inbox/2025-10-03.md",
+    "02_assets/Pasted Image 20251001110316_456.png",
+    "03_resource/组块化记忆.md",
+    "rust_复合_Drawing_20251003155056.excalidraw.md",
     "01_inbox/20251003155522.md",
+    "01_inbox/2025-10-03.md",
     "01_inbox/20251003155612.md",
     "01_inbox/20251003155613.md",
-    "rust_复合_Drawing_20251003155056.excalidraw.md",
     "rust_mut和&mut_20250930084222.excalidraw.md",
     "rust_作用域_20250930085805.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
-    "03_resource/组块化记忆.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_标量类型_20250930112235.excalidraw.md",
     "04_template/属性模板.md",
@@ -242,7 +241,6 @@
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
     "rust__所有权_20250930083957.excalidraw.md",
     "rust_所有权转移_20250930084008.excalidraw.md",
-    "02_assets/Pasted Image 20251001110316_456.png",
     "可变变量.md",
     "README.md",
     "Drawing 2025-09-30 08.27.59.excalidraw.md",
