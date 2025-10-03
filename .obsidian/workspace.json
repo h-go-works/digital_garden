@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_template/属性模板.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "属性模板"
+              "title": "未命名"
             }
           }
         ],
@@ -219,11 +219,13 @@
   },
   "active": "99a58cdf7ce6210b",
   "lastOpenFiles": [
+    "01_inbox/2025-10-03.md",
+    "未命名.md",
+    "04_template/属性模板.md",
     "02_assets/Pasted Image 20251001110316_456.png",
     "03_resource/组块化记忆.md",
     "rust_复合_Drawing_20251003155056.excalidraw.md",
     "01_inbox/20251003155522.md",
-    "01_inbox/2025-10-03.md",
     "01_inbox/20251003155612.md",
     "01_inbox/20251003155613.md",
     "rust_mut和&mut_20250930084222.excalidraw.md",
@@ -231,12 +233,10 @@
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_标量类型_20250930112235.excalidraw.md",
-    "04_template/属性模板.md",
     "2025-10-03.md",
     "rust_复合类型_20250930112327.excalidraw.md",
     "未命名.base",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
-    "未命名.md",
     "01_inbox",
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
     "rust__所有权_20250930083957.excalidraw.md",
