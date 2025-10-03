@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_inbox/rust_泛型_20251003201131.md",
+                "file": "01_inbox/rust_Trait_20251003205024.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rust_泛型_20251003201131"
+              "title": "rust_Trait_20251003205024"
             }
           }
         ],
@@ -305,8 +305,9 @@
   },
   "active": "68273945c673d1e6",
   "lastOpenFiles": [
-    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
     "01_inbox/rust_泛型_20251003201131.md",
+    "01_inbox/rust_Trait_20251003205024.md",
+    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
     "浮点数.md",
     "整数.md",
     "03_resource/组块化记忆.md",
@@ -332,7 +333,6 @@
     "rust_变量遮蔽_20250930084436.excalidraw.md",
     "01_inbox",
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
-    "rust__所有权_20250930083957.excalidraw.md",
-    "rust_所有权转移_20250930084008.excalidraw.md"
+    "rust__所有权_20250930083957.excalidraw.md"
   ]
 }
