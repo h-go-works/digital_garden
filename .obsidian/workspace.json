@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "rust_mut和&mut_20250930084222.excalidraw.md"
+                "file": "rust_借用与引用_20250930084135.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "rust_mut和&mut_20250930084222.excalidraw"
+              "title": "rust_借用与引用_20250930084135.excalidraw"
             }
           }
         ]
@@ -196,15 +196,17 @@
   },
   "active": "13f656ebccff1149",
   "lastOpenFiles": [
+    "rust_标量类型_20250930112235.excalidraw.md",
+    "03_resource/组块化记忆.md",
+    "04_template/属性模板.md",
+    "2025-10-03.md",
+    "rust_mut和&mut_20250930084222.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_作用域_20250930085805.excalidraw.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
     "rust_复合类型_20250930112327.excalidraw.md",
-    "03_resource/组块化记忆.md",
     "未命名.base",
-    "rust_mut和&mut_20250930084222.excalidraw.md",
     "rust_变量遮蔽_20250930084436.excalidraw.md",
-    "rust_标量类型_20250930112235.excalidraw.md",
     "未命名.md",
     "01_inbox",
     "rust_所有权转移_20250930084008.excalidraw.restored.md",
@@ -212,7 +214,6 @@
     "rust_所有权转移_20250930084008.excalidraw.md",
     "02_assets/Pasted Image 20251001110316_456.png",
     "可变变量.md",
-    "04_template/属性模板.md",
     "README.md",
     "Drawing 2025-09-30 08.27.59.excalidraw.md",
     "rust_所有权_Drawing 2025-09-29 21.46.52.excalidraw.md",
