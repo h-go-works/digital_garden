@@ -571,9 +571,11 @@
   "active": "dd789b36adde26b0",
   "lastOpenFiles": [
     "01_inbox/rust_Trait_20251003205024.md",
+    "指针.md",
     "01_inbox/rust_智能指针_20251003211649.md",
-    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
     "01_inbox/rust_泛型_20251003201131.md",
+    "胖指针.md",
+    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
     "Box T.md",
     "链表.md",
     "智能指针.md",
@@ -594,9 +596,7 @@
     "03_resource/组块化记忆.md",
     "04_template/属性模板.md",
     "01_inbox/浮点型和整数运算.md",
-    "01_inbox/2025-10-03.md",
     "02_assets/Pasted Image 20251001110316_456.png",
-    "rust_复合_Drawing_20251003155056.excalidraw.md",
     "未命名.base",
     "01_inbox"
   ]
