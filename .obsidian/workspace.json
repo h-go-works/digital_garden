@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "03_resource/组块化记忆.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "组块化记忆"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "13f656ebccff1149",
   "lastOpenFiles": [
-    "03_resource/组块化记忆.md",
     "未命名.md",
+    "03_resource/组块化记忆.md",
     "01_inbox/2025-10-03.md",
     "04_template/属性模板.md",
     "02_assets/Pasted Image 20251001110316_456.png",
