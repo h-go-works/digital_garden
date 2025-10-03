@@ -6,7 +6,7 @@
       {
         "id": "470399be60c0e3d6",
         "type": "tabs",
-        "dimension": 75.0733137829912,
+        "dimension": 60.093896713615024,
         "children": [
           {
             "id": "13f656ebccff1149",
@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_inbox/rust_Trait_20251003205024.md",
+                "file": "01_inbox/rust_智能指针_20251003211649.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rust_Trait_20251003205024"
+              "title": "rust_智能指针_20251003211649"
             },
             "group": "57ffcaf5cd486d55"
           }
@@ -135,7 +135,7 @@
       {
         "id": "87b2953fe71b74f6",
         "type": "tabs",
-        "dimension": 24.926686217008797,
+        "dimension": 39.90610328638497,
         "children": [
           {
             "id": "3ff12d864b2e90d6",
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_inbox/rust_Trait_20251003205024.md",
+                "file": "01_inbox/rust_智能指针_20251003211649.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "rust_Trait_20251003205024 的大纲"
+              "title": "rust_智能指针_20251003211649 的大纲"
             },
             "group": "57ffcaf5cd486d55"
           }
@@ -330,10 +330,11 @@
   },
   "active": "68273945c673d1e6",
   "lastOpenFiles": [
-    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
-    "01_inbox/rust_泛型_20251003201131.md",
-    "rust_Copy.md",
     "01_inbox/rust_Trait_20251003205024.md",
+    "01_inbox/rust_智能指针_20251003211649.md",
+    "01_inbox/rust_泛型_20251003201131.md",
+    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
+    "rust_Copy.md",
     "rust_Trait.md",
     "rust_PartialOrd.md",
     "rust_Debug.md",
@@ -356,7 +357,6 @@
     "rust_作用域_20250930085805.excalidraw.md",
     "rust_生命周期_20250930084039.excalidraw.md",
     "rust_借用与引用_20250930084135.excalidraw.md",
-    "rust_标量类型_20250930112235.excalidraw.md",
     "未命名.base",
     "01_inbox"
   ]
