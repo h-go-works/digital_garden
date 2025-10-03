@@ -233,9 +233,11 @@
   },
   "active": "fb2a3d980f743f02",
   "lastOpenFiles": [
+    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
+    "01_inbox/浮点型和整数运算.md",
+    "01_inbox/rust_泛型_20251003201131.md",
     "03_resource/组块化记忆.md",
     "函数.md",
-    "01_inbox/rust_泛型_20251003201131.md",
     "未命名.md",
     "01_inbox/2025-10-03.md",
     "04_template/属性模板.md",
@@ -259,8 +261,6 @@
     "rust_所有权转移_20250930084008.excalidraw.md",
     "可变变量.md",
     "README.md",
-    "Drawing 2025-09-30 08.27.59.excalidraw.md",
-    "rust_所有权_Drawing 2025-09-29 21.46.52.excalidraw.md",
-    "Drawing 2025-09-29 21.39.37.excalidraw.md"
+    "Drawing 2025-09-30 08.27.59.excalidraw.md"
   ]
 }
