@@ -17,7 +17,7 @@
   "autosave": true,
   "autosaveIntervalDesktop": 60000,
   "autosaveIntervalMobile": 30000,
-  "drawingFilenamePrefix": "",
+  "drawingFilenamePrefix": "_Drawing_",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYYMMDDHHmmss",
