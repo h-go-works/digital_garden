@@ -359,8 +359,6 @@ GitHub Actions采用事件驱动的架构，配置通过仓库内`.github/workfl
 |**安全性**|通过插件集成（如SonarQube, Snyk）|内置SAST, DAST, 依赖项扫描等|与GitHub安全特性集成（Dependabot, CodeQL）|
 |**最佳适用场景**|复杂的、定制化的、混合云或遗留企业工作流|寻求单一、一体化DevOps平台的团队|开源项目以及完全投入GitHub生态系统的团队|
 
-导出到 Google 表格
-
 ## 第六部分：动手实践：构建你的第一个流水线
 
 理论学习的最终目的是付诸实践。本部分将提供三个循序渐进的实战项目，分别使用GitHub Actions、GitLab CI/CD和Jenkins，为三种流行的编程语言构建一个完整的基础CI流水线。

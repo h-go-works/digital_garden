@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_resource/未命名.md",
+                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Rust 权威学习指南与进阶路线图"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -46,13 +46,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_resource/未命名.md",
+                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Rust 权威学习指南与进阶路线图 的大纲"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -234,8 +234,8 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
+    "04_resource/CICD学习指南路线图：从首次提交到自动化部署.md",
     "04_resource/Rust 权威学习指南与进阶路线图.md",
-    "04_resource/未命名.md",
     "04_resource/权威Docker学习路线图：从入门到生产级部署.md",
     "04_resource/Git 权威学习指南：从新手到大师的路线图.md",
     "04_resource/权威Python学习路线图：从基础原理到专业精通.md",
