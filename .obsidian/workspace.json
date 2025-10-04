@@ -11,17 +11,24 @@
             "id": "58f3ffc1597dacf0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 48.66668701171875,
-                  "y": -28.000030517578125,
-                  "zoom": 0
+                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "Rust 权威学习指南与进阶路线图"
             }
           }
         ]
@@ -202,8 +209,9 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
-    "06_template/属性模板.md",
     "未命名.canvas",
+    "04_resource/Rust 权威学习指南与进阶路线图.md",
+    "06_template/属性模板.md",
     "04_resource/Box 链表内存图.md",
     "04_resource/组块化记忆.md",
     "04_resource/栈 (Stack) 内存图.md",
@@ -234,7 +242,6 @@
     "05_chunking/生命周期.md",
     "05_chunking/栈 (Stack).md",
     "03_resource/Box 链表内存图.md",
-    "01_inbox/rust_Trait_20251003205024.md",
     "05_atomic",
     "05_Chunking",
     "新建文件夹",
