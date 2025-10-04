@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_chunking/栈 (Stack).md",
+                "file": "05_chunking/内存管理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "栈 (Stack)"
+              "title": "内存管理"
             }
           },
           {
@@ -401,6 +401,8 @@
   },
   "active": "58bf5632f6a65177",
   "lastOpenFiles": [
+    "05_chunking/链表.md",
+    "05_chunking/内存管理.md",
     "05_chunking/堆 (Heap).md",
     "05_chunking/栈 (Stack).md",
     "01_inbox/rust_Trait_20251003205024.md",
@@ -424,9 +426,7 @@
     "所有权系统.md",
     "手动释放.md",
     "垃圾回收（GC）.md",
-    "05_chunking/内存管理.md",
     "05_chunking/胖指针.md",
-    "05_chunking/指针.md",
     "05_chunking",
     "05_Chunking",
     "新建文件夹",
