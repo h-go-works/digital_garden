@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_chunking/堆 (Heap).md",
+                "file": "03_resource/组块化记忆.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "堆 (Heap)"
+              "title": "组块化记忆"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "d6afe7f226657609",
   "lastOpenFiles": [
+    "05_chunking/堆 (Heap).md",
     "03_resource/Box 链表内存图.md",
     "01_inbox/rust_Trait_20251003205024.md",
     "01_inbox/rust_泛型_20251003201131.md",
@@ -226,7 +227,6 @@
     "05_chunking/函数.md",
     "05_chunking/浮点数.md",
     "05_chunking/泛型.md",
-    "05_chunking/堆 (Heap).md",
     "05_chunking/编译器.md",
     "05_chunking/rust_Trait.md",
     "05_chunking/rust_Rc.md",
