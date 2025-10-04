@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_resource/组块化记忆.md",
+                "file": "03_resource/栈 (Stack) 内存图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "组块化记忆"
+              "title": "栈 (Stack) 内存图"
             }
           },
           {
@@ -281,13 +281,13 @@
   },
   "active": "43da09a06500a568",
   "lastOpenFiles": [
+    "03_resource/组块化记忆.md",
     "05_chunking/内存管理.md",
     "05_chunking/堆 (Heap).md",
     "05_chunking/栈 (Stack).md",
     "05_chunking/胖指针.md",
     "03_resource/堆 (Heap) 内存图.md",
     "03_resource/栈 (Stack) 内存图.md",
-    "03_resource/组块化记忆.md",
     "03_resource/Box 链表内存图.md",
     "05_chunking/指针.md",
     "GC.md",
