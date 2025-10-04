@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_chunking/栈 (Stack).md",
+                "file": "05_chunking/堆 (Heap).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "栈 (Stack)"
+              "title": "堆 (Heap)"
             }
           }
         ]
@@ -209,11 +209,13 @@
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
     "05_chunking/内存管理.md",
+    "05_chunking/链表.md",
+    "05_chunking/手动释放.md",
+    "05_chunking/生命周期.md",
+    "05_chunking/栈 (Stack).md",
+    "05_chunking/堆 (Heap).md",
     "03_resource/组块化记忆.md",
     "03_resource/Box 链表内存图.md",
-    "05_chunking/链表.md",
-    "05_chunking/堆 (Heap).md",
-    "05_chunking/栈 (Stack).md",
     "01_inbox/rust_Trait_20251003205024.md",
     "01_inbox/rust_智能指针_20251003211649.md",
     "01_inbox/rust_浮点数和整数运算_20251003202608.md",
@@ -224,14 +226,12 @@
     "05_chunking/函数.md",
     "05_chunking/浮点数.md",
     "05_chunking/编译器.md",
-    "05_chunking/生命周期.md",
     "05_chunking/字符串.md",
     "05_chunking/动态数组.md",
     "05_chunking/对象.md",
     "03_resource/堆 (Heap) 内存图.md",
     "03_resource/栈 (Stack) 内存图.md",
     "05_chunking/所有权系统.md",
-    "05_chunking/手动释放.md",
     "05_chunking/垃圾回收（GC）.md",
     "05_chunking/胖指针.md",
     "05_chunking",
