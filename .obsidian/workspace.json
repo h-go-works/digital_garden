@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_resource/栈 (Stack) 内存图.md",
+                "file": "05_chunking/堆 (Heap).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "栈 (Stack) 内存图"
+              "title": "堆 (Heap)"
             }
           },
           {
@@ -281,18 +281,19 @@
   },
   "active": "43da09a06500a568",
   "lastOpenFiles": [
+    "05_chunking/编译器.md",
+    "05_chunking/堆 (Heap).md",
+    "手动释放.md",
+    "所有权系统.md",
+    "垃圾回收（GC）.md",
+    "03_resource/栈 (Stack) 内存图.md",
     "03_resource/组块化记忆.md",
     "05_chunking/内存管理.md",
-    "05_chunking/堆 (Heap).md",
     "05_chunking/栈 (Stack).md",
     "05_chunking/胖指针.md",
     "03_resource/堆 (Heap) 内存图.md",
-    "03_resource/栈 (Stack) 内存图.md",
     "03_resource/Box 链表内存图.md",
     "05_chunking/指针.md",
-    "GC.md",
-    "所有权系统.md",
-    "手动释放.md",
     "01_inbox/rust_Trait_20251003205024.md",
     "01_inbox/rust_泛型_20251003201131.md",
     "01_inbox/rust_浮点数和整数运算_20251003202608.md",
@@ -306,7 +307,6 @@
     "05_chunking/函数.md",
     "05_chunking/浮点数.md",
     "05_chunking/泛型.md",
-    "05_chunking/编译器.md",
     "05_chunking",
     "05_Chunking",
     "新建文件夹",
