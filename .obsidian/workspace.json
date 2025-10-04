@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_resource/权威Docker学习路线图：从入门到生产级部署.md",
+                "file": "04_resource/Git 权威学习指南：从新手到大师的路线图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "权威Docker学习路线图：从入门到生产级部署"
+              "title": "Git 权威学习指南：从新手到大师的路线图"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -46,13 +46,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_resource/权威Docker学习路线图：从入门到生产级部署.md",
+                "file": "04_resource/Git 权威学习指南：从新手到大师的路线图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "权威Docker学习路线图：从入门到生产级部署 的大纲"
+              "title": "Git 权威学习指南：从新手到大师的路线图 的大纲"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -234,8 +234,9 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
-    "04_resource/权威Python学习路线图：从基础原理到专业精通.md",
     "04_resource/权威Docker学习路线图：从入门到生产级部署.md",
+    "04_resource/Git 权威学习指南：从新手到大师的路线图.md",
+    "04_resource/权威Python学习路线图：从基础原理到专业精通.md",
     "04_resource/Rust 权威学习指南与进阶路线图.md",
     "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
     "04_resource/Go语言学习路线图指南.md",
@@ -267,7 +268,6 @@
     "05_chunking/堆 (Heap).md",
     "05_chunking/内存管理.md",
     "05_chunking/链表.md",
-    "05_chunking/手动释放.md",
     "05_atomic",
     "05_Chunking",
     "新建文件夹",
