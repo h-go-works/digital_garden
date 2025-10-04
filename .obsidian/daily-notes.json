@@ -1,6 +1,6 @@
 {
   "folder": "03_daily",
-  "template": "04_template/属性模板",
+  "template": "",
   "format": "YYYYMMDDHHmmss",
   "autorun": true
 }

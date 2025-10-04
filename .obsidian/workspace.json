@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_atomic/未命名.md",
+                "file": "04_resource/栈 (Stack) 内存图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "栈 (Stack) 内存图"
             }
           }
         ]
@@ -207,18 +207,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0677f6e7d0b7ffe3",
+  "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
+    "04_resource/组块化记忆.md",
+    "04_resource/Box 链表内存图.md",
+    "04_resource/栈 (Stack) 内存图.md",
+    "04_resource/堆 (Heap) 内存图.md",
+    "02_excalidraw/_Drawing_20251004142502.excalidraw.md",
+    "01_atomic/未命名 1.md",
     "06_template/属性模板.md",
     "01_atomic/未命名.md",
     "未命名.md",
     "04_template/属性模板.md",
     "06_template",
     "05_assets",
-    "04_resource/组块化记忆.md",
-    "04_resource/栈 (Stack) 内存图.md",
-    "04_resource/堆 (Heap) 内存图.md",
-    "04_resource/Box 链表内存图.md",
     "04_resource",
     "03_daily",
     "02_excalidraw",
@@ -240,8 +242,6 @@
     "03_resource/Box 链表内存图.md",
     "01_inbox/rust_Trait_20251003205024.md",
     "01_inbox/rust_智能指针_20251003211649.md",
-    "01_inbox/rust_浮点数和整数运算_20251003202608.md",
-    "01_inbox/rust_泛型_20251003201131.md",
     "05_atomic",
     "05_Chunking",
     "新建文件夹",

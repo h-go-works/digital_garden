@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "01_atomic",
+  "templates_folder": "06_template",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "01_atomic",
+      "template": "06_template/属性模板.md"
+    },
+    {
+      "folder": "04_resource",
+      "template": "06_template/属性模板.md"
     }
   ],
   "enable_file_templates": false,
@@ -28,11 +32,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "06_template/属性模板.md"
-  ],
-  "startup_templates": [
-    "06_template/属性模板.md"
-  ],
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
   "intellisense_render": 1
 }
