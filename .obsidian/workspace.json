@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
+                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "权威 Kubernetes 学习路线图：从核心概念到生产就绪"
+              "title": "Rust 权威学习指南与进阶路线图"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -44,13 +44,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
+                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "权威 Kubernetes 学习路线图：从核心概念到生产就绪 的大纲"
+              "title": "Rust 权威学习指南与进阶路线图 的大纲"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -232,12 +232,12 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
+    "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
     "04_resource/Rust 权威学习指南与进阶路线图.md",
     "04_resource/Go语言学习路线图指南.md",
     "04_resource/Box 链表内存图.md",
     "04_resource/组块化记忆.md",
     "未命名.canvas",
-    "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
     "06_template/属性模板.md",
     "04_resource/栈 (Stack) 内存图.md",
     "04_resource/堆 (Heap) 内存图.md",
