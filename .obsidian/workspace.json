@@ -208,8 +208,9 @@
   },
   "active": "d6afe7f226657609",
   "lastOpenFiles": [
-    "05_chunking/栈 (Stack).md",
+    "05_chunking/内存管理.md",
     "05_chunking/堆 (Heap).md",
+    "05_chunking/栈 (Stack).md",
     "03_resource/组块化记忆.md",
     "03_resource/Box 链表内存图.md",
     "01_inbox/rust_Trait_20251003205024.md",
@@ -233,7 +234,6 @@
     "05_chunking/rust_PartialOrd.md",
     "05_chunking/rust_Display.md",
     "05_chunking/rust_Debug.md",
-    "05_chunking/rust_Copy.md",
     "05_chunking",
     "05_Chunking",
     "新建文件夹",
