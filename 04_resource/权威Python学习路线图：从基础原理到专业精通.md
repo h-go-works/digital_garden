@@ -1,6 +1,7 @@
 ---
 aliases:
 tags:
+  - Python
 data: 2025-10-04T19:58:00
 ---
 
