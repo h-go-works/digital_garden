@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_resource/组块化记忆.md",
+                "file": "04_template/属性模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "组块化记忆"
+              "title": "属性模板"
             }
           }
         ]
@@ -206,12 +206,13 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "58f3ffc1597dacf0",
+  "active": "0677f6e7d0b7ffe3",
   "lastOpenFiles": [
+    "06_daily",
+    "03_resource/组块化记忆.md",
     "01_inbox/rust_Drawing_20251004134445.excalidraw.md",
     "01_inbox/_Drawing_20251004134414.excalidraw.md",
     "01_inbox/20251004134113.md",
-    "03_resource/组块化记忆.md",
     "05_chunking/垃圾回收(GC).md",
     "03_resource/栈 (Stack) 内存图.md",
     "03_resource/堆 (Heap) 内存图.md",
@@ -233,12 +234,11 @@
     "05_chunking/浮点数.md",
     "05_chunking/编译器.md",
     "05_chunking/字符串.md",
-    "05_chunking/动态数组.md",
     "05_chunking",
     "05_Chunking",
     "新建文件夹",
     "02_assets/Pasted Image 20251001110316_456.png",
     "未命名.base",
-    "01_inbox"
+    "01_excalidraw"
   ]
 }
