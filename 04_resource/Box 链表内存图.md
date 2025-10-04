@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-  - rust
+  - Rust
 data: 2025-10-04T14:25:00
 ---
 

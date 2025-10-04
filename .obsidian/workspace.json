@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
+                "file": "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rust 权威学习指南与进阶路线图"
+              "title": "权威 Kubernetes 学习路线图：从核心概念到生产就绪"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -44,13 +44,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
+                "file": "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Rust 权威学习指南与进阶路线图 的大纲"
+              "title": "权威 Kubernetes 学习路线图：从核心概念到生产就绪 的大纲"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -232,12 +232,13 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
-    "04_resource/Go语言学习路线图指南.md",
     "04_resource/Rust 权威学习指南与进阶路线图.md",
-    "未命名.canvas",
-    "06_template/属性模板.md",
+    "04_resource/Go语言学习路线图指南.md",
     "04_resource/Box 链表内存图.md",
     "04_resource/组块化记忆.md",
+    "未命名.canvas",
+    "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
+    "06_template/属性模板.md",
     "04_resource/栈 (Stack) 内存图.md",
     "04_resource/堆 (Heap) 内存图.md",
     "02_excalidraw/_Drawing_20251004142502.excalidraw.md",
@@ -264,8 +265,6 @@
     "05_chunking/链表.md",
     "05_chunking/手动释放.md",
     "05_chunking/生命周期.md",
-    "05_chunking/栈 (Stack).md",
-    "03_resource/Box 链表内存图.md",
     "05_atomic",
     "05_Chunking",
     "新建文件夹",

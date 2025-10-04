@@ -1,7 +1,7 @@
 ---
 aliases:
 tags:
-  - rust
+  - Rust
 data: 2025-10-04T16:59:00
 ---
 ## **第一部分：Rust 编程基础**
