@@ -29,7 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Rust 权威学习指南与进阶路线图"
-            }
+            },
+            "group": "88eb1ef472beaa35"
+          }
+        ]
+      },
+      {
+        "id": "f37af755ecd96338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670a9d78283adf37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Rust 权威学习指南与进阶路线图 的大纲"
+            },
+            "group": "88eb1ef472beaa35"
           }
         ]
       }
@@ -207,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58f3ffc1597dacf0",
+  "active": "670a9d78283adf37",
   "lastOpenFiles": [
     "未命名.canvas",
     "04_resource/Rust 权威学习指南与进阶路线图.md",
