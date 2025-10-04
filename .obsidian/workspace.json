@@ -6,6 +6,7 @@
       {
         "id": "87c6a4de8cf601ed",
         "type": "tabs",
+        "dimension": 54.82406356413167,
         "children": [
           {
             "id": "58f3ffc1597dacf0",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
+                "file": "04_resource/权威Python学习路线图：从基础原理到专业精通.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rust 权威学习指南与进阶路线图"
+              "title": "权威Python学习路线图：从基础原理到专业精通"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -37,6 +38,7 @@
       {
         "id": "f37af755ecd96338",
         "type": "tabs",
+        "dimension": 45.17593643586833,
         "children": [
           {
             "id": "670a9d78283adf37",
@@ -44,13 +46,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_resource/Rust 权威学习指南与进阶路线图.md",
+                "file": "04_resource/权威Python学习路线图：从基础原理到专业精通.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Rust 权威学习指南与进阶路线图 的大纲"
+              "title": "权威Python学习路线图：从基础原理到专业精通 的大纲"
             },
             "group": "88eb1ef472beaa35"
           }
@@ -232,8 +234,9 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
-    "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
     "04_resource/Rust 权威学习指南与进阶路线图.md",
+    "04_resource/权威Python学习路线图：从基础原理到专业精通.md",
+    "04_resource/权威 Kubernetes 学习路线图：从核心概念到生产就绪.md",
     "04_resource/Go语言学习路线图指南.md",
     "04_resource/Box 链表内存图.md",
     "04_resource/组块化记忆.md",
