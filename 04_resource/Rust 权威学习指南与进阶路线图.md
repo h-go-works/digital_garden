@@ -652,7 +652,8 @@ Rust 的异步编程模型围绕 `Future` Trait 构建，它代表一个可能�
 
 Rust
 
-```
+```rust
+
 async fn hello_world() {
     println!("hello, world!");
 }
