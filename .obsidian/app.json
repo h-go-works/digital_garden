@@ -1,10 +1,11 @@
 {
   "trashOption": "local",
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "02_assets",
   "showUnsupportedFiles": true,
   "showLineNumber": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileFolderPath": "05_chunking"
 }
