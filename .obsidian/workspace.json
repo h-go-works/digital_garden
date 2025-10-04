@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_resource/`Box` 链表内存图.md",
+                "file": "泛型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "`Box` 链表内存图"
+              "title": "泛型"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "d6afe7f226657609",
   "lastOpenFiles": [
+    "03_resource/`Box` 链表内存图.md",
     "01_inbox/rust_智能指针_20251003211649.md",
     "01_inbox/rust_Trait_20251003205024.md",
-    "03_resource/`Box` 链表内存图.md",
     "编译器.md",
     "堆 (Heap).md",
     "01_inbox/rust_浮点数和整数运算_20251003202608.md",
