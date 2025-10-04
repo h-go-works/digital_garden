@@ -11,24 +11,17 @@
             "id": "58f3ffc1597dacf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04_resource/栈 (Stack) 内存图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "栈 (Stack) 内存图"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -209,13 +202,14 @@
   },
   "active": "58f3ffc1597dacf0",
   "lastOpenFiles": [
-    "04_resource/组块化记忆.md",
+    "06_template/属性模板.md",
+    "未命名.canvas",
     "04_resource/Box 链表内存图.md",
+    "04_resource/组块化记忆.md",
     "04_resource/栈 (Stack) 内存图.md",
     "04_resource/堆 (Heap) 内存图.md",
     "02_excalidraw/_Drawing_20251004142502.excalidraw.md",
     "01_atomic/未命名 1.md",
-    "06_template/属性模板.md",
     "01_atomic/未命名.md",
     "未命名.md",
     "04_template/属性模板.md",
@@ -241,7 +235,6 @@
     "05_chunking/栈 (Stack).md",
     "03_resource/Box 链表内存图.md",
     "01_inbox/rust_Trait_20251003205024.md",
-    "01_inbox/rust_智能指针_20251003211649.md",
     "05_atomic",
     "05_Chunking",
     "新建文件夹",
